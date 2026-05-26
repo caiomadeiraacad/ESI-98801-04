@@ -17,7 +17,7 @@ Formando grupos de até 40 pessoas (wpp);
 ---
 - Existem diferença de gostos: leitoras jovens x leituras mais velhas (60+);  
     - Isso gera várias ramificações de acordo com a especificidade dos integrantes;
-- O cliente vai dos 18 até 90 anos;
+- O público-alvo (integrantes) possui uma faixa etária ampla, variando de 18 a 90 anos.
 - O aplicativo tem que atender pessoas mais velhas também. Tem que ser acessível;
 ---
 ### Inscrições
