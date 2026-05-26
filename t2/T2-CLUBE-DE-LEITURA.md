@@ -13,7 +13,7 @@ Formando grupos de até 40 pessoas (wpp);
 - Reuniões presenciais;  
 - Cada integrante vai indicar um livro (literatura de ficcção);  
 - O livro é sorteado;  
-- A dona do livro sorteado, oraniza a reunião;  
+- A dona do livro sorteado organiza a reunião;  
 ---
 - Existem diferença de gostos: leitoras jovens x leituras mais velhas (60+);  
     - Isso gera várias ramificações de acordo com a especificidade dos integrantes;
@@ -27,7 +27,7 @@ Formando grupos de até 40 pessoas (wpp);
 - Elas não possuem sistema de resposta automático;
 ---
 ### Encontros
-- O fato de ser presencial é um diferencial aparentemente. Elas dizem como algo "a mais" que os clubes de leitura majoritários;
+- Consideram o formato presencial um grande diferencial competitivo em relação aos clubes de leitura convencionais.;
 - Agenda via whatsapp. No canva;
     - É uma constante o fato de ter que lembrar SEMPRE pra preencherem a agenda;
     - Cada grupo tem a sua agenda;
