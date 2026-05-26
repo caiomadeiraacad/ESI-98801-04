@@ -36,7 +36,8 @@ Formando grupos de até 40 pessoas (wpp);
 
 - Não há um dia fixo. Cada grupo tem seu dia definido;
 - Elas lidam com um grande volume de texto. Isso é fato.
-- Sem autoajuda, sem biografia, sem livro muito raso (Ela criticou um caso que trouxeram Collen Hoover que é uma escritora norte americana, aparentemente geraria uma discussão muito rasa). É literatura ficcional. Elas discutem personagens;  
+- Sem autoajuda, sem biografia, sem livro muito raso . É literatura ficcional. Elas discutem personagens;
+- Há restrição quanto à profundidade das obras. Evitam autoajuda, biografias ou romances comerciais (citaram obras estilo Colleen Hoover como exemplo de leituras que geram discussões muito rasas para o propósito do clube). O foco é literatura ficcional que permita análise profunda de personagens.
 
 - Elas tem grupos temáticos: clássicos; 60+; e vai sair o grupo de Francês; Vai ter um grupo de política;  
 
@@ -44,7 +45,7 @@ Formando grupos de até 40 pessoas (wpp);
 
 - Cada grupo tem uma particularidade;
 
-- Os grupos não aceitam muitas convidadas (clubismo forte/sensação de pertencimento/exclusividade);
+- Os grupos têm limite rigoroso para convidadas para manter o forte senso de comunidade, pertencimento e exclusividade
 ---
 ### Funções:  
 
